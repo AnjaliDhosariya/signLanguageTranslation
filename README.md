@@ -94,7 +94,6 @@ Below are some snapshots from the real-time detection window:
 | O      | ![Image](https://github.com/user-attachments/assets/6fb47a9e-3f50-4a3c-afb5-6c2724f24bcb)|
 | W      | ![Image](https://github.com/user-attachments/assets/f42befaa-775d-4bd4-90ec-02982e44501a) |
 
-> Replace the links above with your actual image URLs or GitHub-hosted images.
 
 
 Make sure `model.json` and `model.h5` are present in the project folder.
